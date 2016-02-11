@@ -14,4 +14,4 @@ Yes, but video.js isnt.
 # Image below
 # ![image](http://i.imgur.com/l4zJkLZ.png)
 
-# ![Web archive of page but its the old version](https://web.archive.org/web/20151116211848/http://www.surrealreporter.com/software/)
+# ![Link to old page](https://web.archive.org/web/20151116211848/http://www.surrealreporter.com/software/)
