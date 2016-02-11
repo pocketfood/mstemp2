@@ -4,5 +4,12 @@
 * generated Css progress bar
 * bragtext in header.php
 
+## Complaints
+Will i be fixing the comments?
+No. Quit asking me. 
+
+Is it responsive?
+Yes, but video.js isnt.
+
 # Image below
 # ![image](http://i.imgur.com/l4zJkLZ.png)
