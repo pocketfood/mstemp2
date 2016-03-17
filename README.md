@@ -6,7 +6,8 @@
 
 ## Complaints
 Will i be fixing the comments?
-No. Quit asking me. 
+I fixed it. Yes i was already called faggot.
+# ![image](https://github.com/briggsoft/mstemp2/blob/master/2016-03-17-035814_1920x1080_scrot.png?raw=true)
 
 Is it responsive?
 Yes, but video.js isnt.
