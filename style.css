@@ -126,7 +126,7 @@ p2 {
 	word-break: normal | break-all | keep-all;
 	-ms-word-break: break-all;
 	word-break: break-all;
-    	
+
 	word-break: break-word;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
@@ -146,7 +146,7 @@ p2 {
 }
 #main {
         clear: both;
-	
+
 	padding: 0px 0 0 0;
         background: #b6b4b4;
 
@@ -329,18 +329,20 @@ hr {
 	margin-bottom: 1.5em;
 }
 ul, ol {
-	margin: 0 0 1.5em 3em;
+	margin:  0 .6em 3em;
 }
 ul {
 	list-style: disc;
+	margin: 0em;
 }
 ol {
+	margin-bottom: 0;
 	list-style: decimal;
 }
 li > ul,
 li > ol {
-	margin-bottom: 0;
-	margin-left: 1.5em;
+	margin-bottom: 10;
+	margin-left: .5em;
 }
 dt {
 	font-weight: bold;
@@ -698,10 +700,21 @@ a:active {
 /*--------------------------------------------------------------
 10.3 Comments
 --------------------------------------------------------------*/
+
+.comment-metadata {
+	margin-left: 0em;
+}
+.comment-content  {
+ margin-top: 4em;
+}
 .comment-content a {
+	text-align: left;
 	word-wrap: break-word;
 }
 .bypostauthor {
+	text-align: left;
+	width:100%;
+	margin: 15px;
 }
 
 /*--------------------------------------------------------------
